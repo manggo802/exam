@@ -1,3 +1,4 @@
+// 문자 검색 함수
 #include <stdio.h>
 
 char* StrChr(const char* pstring, char ch);
